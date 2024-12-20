@@ -15,17 +15,17 @@ How to Use:
 Clone the Repository:
 Bash
 
-git clone https://github.com/your-username/user-management-script.git
+git clone https://github.com/Harshil-kumar-4/user_management.git
 Grant Execution Permissions:
 Bash
 
-chmod +x user-management.sh
+chmod x user-management.sh (i suggest you to give 744 so only the user can execute it)
 Run the Script:
-Bash
 
+Bash:
 ./user-management.sh
-Usage:
 
+Usage:
 The script presents a menu with the following options:
 
 Add User
@@ -42,4 +42,4 @@ Ensure that the script is executed with appropriate permissions to avoid uninten
 Test the script thoroughly in a controlled environment before deploying it in a production environment.
 
 Contributing:
-Feel free to contribute to this project by submitting pull requests or raising issues on GitHub.
+Feel free to contribute to this project by submitting pull requests, add some additional features that are suitable or raising issues on GitHub.
